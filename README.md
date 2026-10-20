@@ -38,7 +38,7 @@ A custom 4-block CNN (`BrainCNN`), not pretrained:
 | Parameter | Value |
 |---|---|
 | Image size | 224 × 224 |
-| Batch size | 64 |
+| Batch size | 16 |
 | Max epochs | 50 |
 | Optimizer | AdamW |
 | Learning rate | 3e-4 |
